@@ -34,7 +34,7 @@ namespace XPlatformArchTut
 						b, l			
 					}
 				},
-				Padding = new Thickness(0, Device.OnPlatform(20, 0, 0), 0, 0),
+				Padding = new Thickness(0, Device.OnPlatform(20, 0, 0), 0, 0)
 			};
 		}
 
